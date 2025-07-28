@@ -12,6 +12,7 @@ A full-stack AI-powered application that allows users to **upload PDF documents*
 * **Vector Database**: [Qdrant](https://qdrant.tech/)
 * **Queue System**: BullMQ + Valkey (Redis alternative)
 * **PDF Parsing**: [LangChain](https://www.langchain.com/)
+* Also create .env file on client folder and add NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY and CLERK_SECRET_KEY
 
 ---
 
@@ -242,4 +243,22 @@ lsof -i :11434  # Ollama
 
 ---
 
+---
+###Screenshot
+
+<img width="1710" height="1107" alt="Image" src="https://github.com/user-attachments/assets/d44a431c-cbd1-496e-8785-ed7dc0e9fc01" />
+
+<img width="1710" height="1107" alt="Image" src="https://github.com/user-attachments/assets/690c860f-2643-46d4-9425-ffe9b917870a" />
+
+<img width="1710" height="1107" alt="Image" src="https://github.com/user-attachments/assets/06af0199-232b-4d7d-bcef-f7776522439f" />
+
+<img width="1710" height="1107" alt="Image" src="https://github.com/user-attachments/assets/177d5eb3-bfba-49ab-9434-d09e886e8873" />
+
+<img width="1710" height="1107" alt="Image" src="https://github.com/user-attachments/assets/05306ea1-3f08-4ae4-b73a-52ccd322c3a2" />
+
+### PDF(for testing)
+
+[A_Brief_Introduction_To_AI.pdf](https://github.com/user-attachments/files/21478107/A_Brief_Introduction_To_AI.pdf)
+
+---
 
